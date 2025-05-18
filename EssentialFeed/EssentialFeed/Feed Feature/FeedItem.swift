@@ -10,4 +10,3 @@ struct FeedItem {
 	let location: String?
 	let imageURL: URL
 }
-
