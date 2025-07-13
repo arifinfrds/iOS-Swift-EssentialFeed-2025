@@ -98,3 +98,4 @@ final class URLProtocolStub: URLProtocol {
     
     override func stopLoading() { }
 }
+
